@@ -1,4 +1,4 @@
-# Global-variation-in-the-costs-and-ecological-benefits-of-tropical-natural-regeneration-
+# Variation in the costs and ecological benefits of tropical natural forest regeneration
 This repo contains the R code used to analyse and map the spatial patterns of costs and ecological benefits of tropical natural forest regeneration. The analysis classifies areas into **12 cost–benefit categories** based on cost levels and benefit combinations.
 
 **Repository Structure**
